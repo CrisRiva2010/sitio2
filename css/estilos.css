@@ -1,0 +1,12 @@
+body{
+	background: conic-gradient(pink,yellow,#333,#EDE333);
+}
+
+
+nav ul{
+	list-style-type: none;
+	width: 600px;
+	text-align:center;
+	background: cyan;
+
+}
