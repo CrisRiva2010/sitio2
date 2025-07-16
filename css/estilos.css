@@ -44,17 +44,16 @@ article{
 	float: left;
 	margin: auto;	
 }
-#formulario{
-	text-align: left;
-}
 
 fieldset{
-	padding: 25px;
+	border: 4px dashed #33FFF3;
 	width: 400px;
-	border: 2px dashed blue;
-
+	margin: auto;
 }
+
 .etiqueta{
-		width: 120px;
-		float: left;
+	width: 150px;
+	text-align: left;
+	float: left;
+	margin: auto;
 }
